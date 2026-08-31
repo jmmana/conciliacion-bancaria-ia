@@ -1,0 +1,5 @@
+pandas
+openpyxl
+
+# opcional, solo si quieres regenerar las imagenes del post (generar_imagenes_post.py)
+# matplotlib
